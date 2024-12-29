@@ -30,12 +30,11 @@ class HandleResponse {
    * Catch Error (For Try-Catch Blocks)
    * @param {Error} error - The caught error object
    */
-  static catchError(res, error) {
-    console.error(error); // Optional: Use a logger here
+  static catchError(res, error, status= 500) {
     return res.status(500).json({
       success: 0,
       message: error.message || 'An unexpected error occurred',
-      status: 500
+      status: status
     });
   }
 

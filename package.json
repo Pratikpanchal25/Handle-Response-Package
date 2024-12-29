@@ -1,0 +1,27 @@
+{
+  "name": "api-response-handler",
+  "version": "1.0.5",
+  "description": "A universal API error handler for Node.js applications with standardized responses and error management.",
+  "main": "index.js",
+  "keywords": [
+    "api",
+    "error-handler",
+    "middleware",
+    "nodejs",
+    "express",
+    "error-handling"
+  ],
+  "author": "Pratik Panchal",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pratikpanchal25/Handle-Response-Package"
+  },
+  "bugs": {
+    "url": "https://github.com/Pratikpanchal25/Handle-Response-Package/issues"
+  },
+  "homepage": "https://github.com/Pratikpanchal25/Handle-Response-Package#readme",
+  "engines": {
+    "node": ">=14.x"
+  }
+}

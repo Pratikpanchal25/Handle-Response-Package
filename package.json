@@ -1,6 +1,6 @@
 {
   "name": "api-response-handler",
-  "version": "1.0.6",
+  "version": "2.0.0",
   "description": "A universal API error handler for Node.js applications with standardized responses and error management.",
   "main": "index.js",
   "keywords": [

@@ -1,6 +1,6 @@
-# 🚀 **HandleResponse**
+# 🚀 **Api Response Handler**
 
-**HandleResponse** is a utility library designed for **consistent, standardized, and user-friendly API responses** in **Express.js** applications. It simplifies success, error, validation, and pagination responses while reducing repetitive boilerplate code.
+**Api Response Handler** is a utility library designed for **consistent, standardized, and user-friendly API responses** in **Express.js** applications. It simplifies success, error, validation, and pagination responses while reducing repetitive boilerplate code.
 
 ---
 
@@ -9,7 +9,7 @@
 Install the package via **npm**:
 
 ```bash
-npm install handle-response
+npm install api-response-handler
 ```
 
 ---
@@ -19,7 +19,7 @@ npm install handle-response
 ### ✅ **Import the Module**
 
 ```javascript
-import HandleResponse from 'handle-response';
+import HandleResponse from 'api-response-handler';
 ```
 
 ---
